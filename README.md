@@ -64,7 +64,8 @@ The command shown in the evidence creates the PDB and defines the PDB administra
 
 ### Evidence — PDB creation command
 
-![PDB creation command](screenshots/pdb_creation/01_pdb_creation_command.png)
+<img width="841" height="159" alt="01_pdb_creation_command" src="https://github.com/user-attachments/assets/6e18e423-c2d6-49b0-a917-776239a612e4" />
+
 
 **Screenshot 1 — Task 1: PDB creation command and successful creation message.**
 
@@ -88,7 +89,8 @@ The PDB state was then saved using:
 
 ### Evidence — PDB open state
 
-![PDB open state](screenshots/pdb_creation/02_pdb_open_state.png)
+<img width="473" height="211" alt="02_pdb_open_state" src="https://github.com/user-attachments/assets/e884101d-f66f-4f8e-9572-308882966ca6" />
+
 
 **Screenshot 2 — Task 1: PDB opened and saved in its open state.**
 
@@ -117,7 +119,9 @@ The temporary PDB used in my work was:
 
 ### Evidence — Temporary PDB creation
 
-![Temporary PDB creation](screenshots/pdb_deletion/01_temporary_pdb_creation.png)
+<img width="458" height="171" alt="01_temporary_pdb_creation" src="https://github.com/user-attachments/assets/6832ff51-6af1-4e3a-a807-0a8c3ceb0531" />
+
+
 
 **Screenshot 3 — Task 2: Temporary PDB creation command.**
 
@@ -137,17 +141,8 @@ After creation, `SHOW PDBS;` was used to verify the PDB.
 
 ### Evidence — Temporary PDB exists
 
-![Temporary PDB exists](screenshots/pdb_deletion/02_temporary_pdb_exists.png)
+<img width="472" height="32" alt="02_temporary_pdb_exists" src="https://github.com/user-attachments/assets/f998f042-7c00-4788-9f1a-afe3a177be6c" />
 
-**Screenshot 4 — Task 2: Verification that the temporary PDB exists.**
-
-The screenshot shows:
-
-`JA_TO_DELETE_PDB_20251SEN127`
-
-with the PDB in the Oracle environment, confirming that it was successfully created.
-
----
 
 ## 4.3 Delete the temporary PDB
 
@@ -157,7 +152,8 @@ The temporary PDB was deleted with:
 
 ### Evidence — Temporary PDB deletion
 
-![Temporary PDB deleted](screenshots/pdb_deletion/03_temporary_pdb_deleted.png)
+<img width="469" height="63" alt="03_temporary_pdb_deleted" src="https://github.com/user-attachments/assets/9a95a771-101d-44c7-87f2-ac0b44bf0cea" />
+
 
 **Screenshot 5 — Task 2: Temporary PDB deleted successfully.**
 
@@ -182,7 +178,8 @@ The assignment required:
 
 ### Evidence — OEM dashboard
 
-![Oracle Enterprise Manager dashboard](screenshots/oem_dashboard/01_oem_dashboard.png)
+
+<img width="599" height="253" alt="01_oem_dashboard" src="https://github.com/user-attachments/assets/cd7cf0ac-182b-4061-b3dc-b9e8f1eacd0f" />
 
 **Screenshot 6 — Task 3: Oracle Enterprise Manager dashboard.**
 
@@ -213,7 +210,8 @@ Before creating the account, a query was used to check whether the username alre
 
 ### Evidence — Username check
 
-![Username check](screenshots/user_creation/01_username_check.png)
+<img width="445" height="24" alt="01_username_check" src="https://github.com/user-attachments/assets/639c85d1-e5dc-4be5-a8ce-b53f83a6824c" />
+
 
 **Screenshot 7 — Task 1: Check for the required username.**
 
@@ -233,7 +231,8 @@ The user was then created using:
 
 ### Evidence — User successfully created
 
-![User created](screenshots/user_creation/02_user_created.png)
+<img width="470" height="68" alt="02_user_created" src="https://github.com/user-attachments/assets/7537917e-0b09-4e21-b9d6-81bd2c480d1f" />
+
 
 **Screenshot 8 — Task 1: User created successfully inside the Oracle environment.**
 
